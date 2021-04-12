@@ -1,7 +1,3 @@
-// Maulana Yusuf
-// NIM: 2010512034
-// Kelas: A - Sistem Informasi
-
 #include <iostream>
 #include <stdlib.h>
 #include <limits>
