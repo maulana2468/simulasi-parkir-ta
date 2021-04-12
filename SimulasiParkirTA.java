@@ -1,7 +1,3 @@
-// Maulana Yusuf
-// 2010512034
-// A - Sistem Informasi
-
 import java.util.LinkedList;
 import java.util.Scanner;
 import java.io.IOException;
