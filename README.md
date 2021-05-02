@@ -1,4 +1,5 @@
 # Parking Simulation
+Simulasi parkir menggunakan Linked List, Queue, dan Stack
 
 A Shop X has a car park which only allows parking of cars in a row (serial). The parking area can accommodate as many as 10 cars in normal size. For parking order, the manager sets the following rules:
 
